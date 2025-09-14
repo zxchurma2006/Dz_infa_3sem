@@ -7,4 +7,6 @@ int main()
     for(int j = 1; j <=n ; j++) {
         printf("%3i %s %3i %s %3i\n", j, "->", j*j, "->",j*j*j);
     }
+    
 }
+
