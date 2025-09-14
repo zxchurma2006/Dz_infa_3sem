@@ -27,3 +27,4 @@ int main()
         printf("%i ", a[i]);
     }
 }
+

@@ -23,6 +23,6 @@ int main()
 			count++;
 		}
 	}
-	printf("%i %i\n", max, count);
+	printf("%i %i\n ", max, count);
 	return 0;
 }

@@ -8,7 +8,7 @@ int max = 0;
 int count = 0;
 int main()
 {
-	scanf("%d", &n);
+	scanf(" %d", &n);
 	printf("%d", n);
 	while (n != 1)
 	{

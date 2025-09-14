@@ -27,5 +27,4 @@ int main()
 			printf(" %d", massiv[j]);
 		}
 	}
-
 }
